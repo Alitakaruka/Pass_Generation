@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\slave\source\repos\PassGeneration\PassGeneration\Main.cpp(33,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PassGeneration.vcxproj -> C:\Users\slave\source\repos\PassGeneration\x64\Debug\PassGeneration.exe
